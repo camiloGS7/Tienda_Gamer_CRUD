@@ -1,0 +1,15 @@
+{
+  "name": "tienda-gamer-crud",
+  "version": "1.0.0",
+  "description": "CRUD de productos - Tienda Gamer - Guía 5",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "mssql": "^11.0.0",
+    "msnodesqlv8": "^4.2.0"
+  }
+}
